@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Miguel
 
-<!--
-**lordMigu/lordMigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador backend con enfoque profesional en Java, Spring Boot y arquitectura de APIs REST. Me apasiona el diseño limpio, la optimización de procesos y la enseñanza de conceptos técnicos de forma clara y estructurada.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Conocimientos Técnicos
+
+- **Lenguajes:** Java, Python, Kotlin, JavaScript, PHP  
+- **Frameworks:** Spring Boot, Flask, Laravel, Jetpack Compose  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Bases de datos:** MySQL, PostgreSQL, SQLite  
+- **Redes:** Asignación de IPs, DHCP, configuración de routers y hosts  
+- **Otros:** Git, GitHub, Android Studio, Salesforce CRM, Apex
+
+---
+
+## 🚀 Proyectos Destacados
+
+- [📊 Gestión de Reclamos – TPG](https://github.com/tu-repo-tpg)  
+  Aplicación CRM en Salesforce para el manejo de reclamos, integrando HTML, JavaScript y Apex.
+
+- [📦 API para Bazar – Spring Boot](https://github.com/tu-repo-bazar)  
+  CRUD completo de productos, clientes y ventas con DTOs, validaciones y endpoints RESTful.
+
+---
+
+## 📬 Contacto
+
+- 📧 cabreramguillen@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-cabrera-guill%C3%A9n-29b45217a/)  
+---
+
+> “La claridad en el código refleja la claridad en el pensamiento.”  
+> — Miguel
+
