@@ -17,9 +17,9 @@ Soy desarrollador backend con enfoque profesional en Java, Spring Boot y arquite
 
 ## 🚀 Proyectos Destacados
 
-- [📊 API para contenedores]([https://github.com/tu-repo-tpg](https://github.com/lordMigu/bc_microservicio_tpg))  
+- [📊 API para contenedores](https://github.com/lordMigu/bc_microservicio_tpg)  
   Distintos tipos de apis para obtener información de contenedores de un puerto, usando procedimientos almacenados. Empleando Python, flask, Microsoft SQL y Sybase.
-- [📦 API para Bazar – Spring Boot]([https://github.com/tu-repo-bazar](https://github.com/lordMigu/microservicio-tienda/tree/master))  
+- [📦 API para Bazar – Spring Boot](https://github.com/lordMigu/microservicio-tienda/tree/master)  
   CRUD completo de productos, clientes y ventas con DTOs, validaciones y endpoints RESTful.
 
 ---
