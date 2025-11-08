@@ -22,6 +22,10 @@ Soy desarrollador backend con enfoque profesional en Java, Spring Boot y arquite
   
 - [📊 API para contenedores - Flask](https://github.com/lordMigu/bc_microservicio_tpg)  
   Distintos tipos de apis para obtener información de contenedores de un puerto, usando procedimientos almacenados. Empleando Python, flask, Microsoft SQL y Sybase.
+
+- [API para consultas con parámetros de seguridad JWT - Flask](https://github.com/lordMigu/flask_jwt_log_test/tree/master)
+  Api de consulta con protocolo de seguridad JWT, incluye los script sql de creación de los procedimientos almacenados y las tablas. Empleando Python, flask, MySQL.
+  
   
 ---
 
