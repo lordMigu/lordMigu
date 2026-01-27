@@ -19,13 +19,12 @@ Soy desarrollador backend con enfoque profesional en Java, Spring Boot y arquite
 
 - [📦 API para Bazar – Spring Boot](https://github.com/lordMigu/microservicio-tienda/tree/master)  
   CRUD completo de una API RESTful de entidades como productos, clientes y ventas con DTOs, validaciones, Spring Security con roles de USER Y ADMIN, usando programacion funcional y documentación Swagger (OpenAPI).
-  
-- [📊 API para contenedores - Flask](https://github.com/lordMigu/bc_microservicio_tpg)  
-  Distintos tipos de apis para obtener información de contenedores de un puerto, usando procedimientos almacenados. Empleando Python, flask, Microsoft SQL y Sybase.
 
 - [API para consultas con parámetros de seguridad JWT - Flask](https://github.com/lordMigu/flask_api_docker).
   Api de consulta con protocolo de seguridad JWT, incluye los script sql de creación de los procedimientos almacenados y las tablas. Empleando Python, flask, MySQL y Docker.
   
+- [📊 API para contenedores - Flask](https://github.com/lordMigu/bc_microservicio_tpg)  
+  Distintos tipos de apis para obtener información de contenedores de un puerto, usando procedimientos almacenados. Empleando Python, flask, Microsoft SQL y Sybase. 
   
 ---
 
