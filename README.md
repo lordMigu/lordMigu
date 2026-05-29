@@ -1,17 +1,17 @@
 # 👋 ¡Hola! Soy Miguel
 
-Soy desarrollador backend con enfoque profesional en Java, Spring Boot y arquitectura de APIs REST. Me apasiona el diseño limpio, la optimización de procesos y la enseñanza de conceptos técnicos de forma clara y estructurada.
+Soy desarrollador fullstack con enfoque profesional en React, Vite, Java, Spring Boot y arquitectura de APIs REST. Me apasiona el diseño limpio, la optimización de procesos y la enseñanza de conceptos técnicos de forma clara y estructurada.
 
 ---
 
 ## 🧠 Conocimientos Técnicos
 
 - **Lenguajes:** Java, Python, Kotlin, JavaScript, PHP  
-- **Frameworks:** Spring Boot, Flask, Laravel, Jetpack Compose  
+- **Frameworks:** React, Vite, Spring Boot, Flask, Laravel, Jetpack Compose  
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Bases de datos:** MySQL, PostgreSQL, SQLite  
 - **Redes:** Asignación de IPs, DHCP, configuración de routers y hosts  
-- **Otros:** Git, GitHub, Android Studio, Salesforce CRM, Apex
+- **Otros:** Git, GitHub, GitLab, Android Studio, Salesforce CRM, Apex
 
 ---
 
