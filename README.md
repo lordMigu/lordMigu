@@ -6,10 +6,12 @@ Soy desarrollador fullstack con enfoque profesional en React, Vite, Java, Spring
 
 ## 🧠 Conocimientos Técnicos
 
-- **Lenguajes:** Java, Python, Kotlin, JavaScript, PHP  
-- **Frameworks:** React, Vite, Spring Boot, Flask, Laravel, Jetpack Compose  
+- **Lenguajes:** Java, Python, Kotlin, JavaScript, PHP, SQL, PL/SQL  
+- **Frameworks:** React, Vite, Spring Boot, Django REST Framework, Flask, Laravel, Jetpack Compose  
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
-- **Bases de datos:** MySQL, PostgreSQL, SQLite  
+- **Bases de datos:** MySQL, PostgreSQL, SQLite, Oracle
+- **BI / ERP:** OBIEE, BI Publisher, JD Edwards
+- **DevOps / Cloud:** Docker, GitHub Actions, AWS (ECR, EC2), Nginx, Gunicorn  
 - **Redes:** Asignación de IPs, DHCP, configuración de routers y hosts  
 - **Otros:** Git, GitHub, GitLab, Android Studio, Salesforce CRM, Apex
 
@@ -23,8 +25,8 @@ Soy desarrollador fullstack con enfoque profesional en React, Vite, Java, Spring
 - [API para consultas con parámetros de seguridad JWT - Flask](https://github.com/lordMigu/flask_api_docker).
   Api de consulta con protocolo de seguridad JWT, incluye los script sql de creación de los procedimientos almacenados y las tablas. Empleando Python, flask, MySQL y Docker.
   
-- [📊 API para contenedores - Flask](https://github.com/lordMigu/bc_microservicio_tpg)  
-  Distintos tipos de apis para obtener información de contenedores de un puerto, usando procedimientos almacenados. Empleando Python, flask, Microsoft SQL y Sybase. 
+- [⚙️ Pipeline CI/CD a AWS – Spring Boot + Docker](https://github.com/lordMigu/spring-boot-docker)
+  Pipeline con GitHub Actions que construye una imagen Docker multi-etapa, la publica en AWS ECR y la despliega en EC2. 
   
 ---
 
